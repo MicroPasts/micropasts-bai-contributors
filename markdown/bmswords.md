@@ -9,4 +9,4 @@ thumbnail: https://live.staticflickr.com/7407/16424750506_335cf9d6b4_c.jpg
 micropastsURL:  https://crowdsourced.micropasts.org/project/bmswords
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157650592489226
 ---
-Elaine Dale, Jeff Okazaki, Joellen mcGann, scruffyarcher, Sophia Davies, Denis Antoine, Heidi Lund, Christopher Wai, Susan Magyarody, Michael Adams, Darren Kinsman, Marla Walcott, Holly Peterson, Marilyn Kohn, John Sorrell, JP OConnor, Jane Williams, john pilkington, Nicole Beck
+Elaine Dale, Jeff Okazaki, Joellen McGann, scruffyarcher, Sophia Davies, Denis Antoine, Heidi Lund, Christopher Wai, Susan Magyarody, Michael Adams, Darren Kinsman, Marla Walcott, Holly Peterson, Marilyn Kohn, John Sorrell, JP OConnor, Jane Williams, john pilkington, Nicole Beck

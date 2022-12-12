@@ -10,4 +10,4 @@ micropastsURL: https://crowdsourced.micropasts.org/project/toolsA8/
 thumbnail: https://live.staticflickr.com/7549/15889824031_a375bbde6c_c.jpg
 ---
 
-Jeff Okazaki, Sylvia Bates, Joellen mcGann, Dina Fathalla, Jane Fellows, Denis Antoine, Hugh Fiske, Maria Christakou, Susan Magyarody, Lisa Cardy, Philip G Metherell, John Sorrell, Catherine Ford, Clive Drew, Patrick, Amy Becker, David Caplin, JP OConnor, Viv Pert
+Jeff Okazaki, Sylvia Bates, Joellen McGann, Dina Fathalla, Jane Fellows, Denis Antoine, Hugh Fiske, Maria Christakou, Susan Magyarody, Lisa Cardy, Philip G Metherell, John Sorrell, Catherine Ford, Clive Drew, Patrick, Amy Becker, David Caplin, JP OConnor, Viv Pert

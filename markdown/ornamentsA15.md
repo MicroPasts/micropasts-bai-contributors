@@ -9,4 +9,4 @@ tasks: 691
 micropastsURL: https://crowdsourced.micropasts.org/project/ornamentsA15
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157649579354432
 ---
-Lucy Ellis, Elaine Dale, Jeff Okazaki, Joellen mcGann, Dina Fathalla, Jane Fellows, John Marr, Denis Antoine, Maria Christakou, Susan Magyarody, Michael Adams, David Christensen, Van C. Vives, Marla Walcott, Marilyn Kohn, John Sorrell, Paul Hummerston, Catherine Ford, DIANA ROCHE, Amy Becker, JP OConnor, Viv Pert, Tulsi Parikh
+Lucy Ellis, Elaine Dale, Jeff Okazaki, Joellen McGann, Dina Fathalla, Jane Fellows, John Marr, Denis Antoine, Maria Christakou, Susan Magyarody, Michael Adams, David Christensen, Van C. Vives, Marla Walcott, Marilyn Kohn, John Sorrell, Paul Hummerston, Catherine Ford, DIANA ROCHE, Amy Becker, JP OConnor, Viv Pert, Tulsi Parikh

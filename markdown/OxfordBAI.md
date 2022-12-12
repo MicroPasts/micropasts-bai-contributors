@@ -9,4 +9,4 @@ thumbnail: https://live.staticflickr.com/7251/26683333493_7cb42f877b_c.jpg
 micropastsURL: https://crowdsourced.micropasts.org/project/OxfordBAI
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157668173929550
 ---
-Laurie Pearce Hager, Adrien Wasila, Laura Krez, Elaine Dale, Jeff Okazaki, Jos Kleijne, Joellen mcGann, Denis Antoine, Victoria, Susan Magyarody, Michael Adams, Van C. Vives
+Laurie Pearce Hager, Adrien Wasila, Laura Krez, Elaine Dale, Jeff Okazaki, Jos Kleijne, Joellen McGann, Denis Antoine, Victoria, Susan Magyarody, Michael Adams, Van C. Vives

@@ -9,4 +9,4 @@ tasks: 94
 micropastsURL: https://crowdsourced.micropasts.org/project/ThamesSwords
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157662627374690
 ---
-Daniel Pett, icemaiden1964, Elaine Dale, Jos Kleijne, Joellen mcGann, Denis Antoine, Michael Adams, JP OConnor
+Daniel Pett, icemaiden1964, Elaine Dale, Jos Kleijne, Joellen McGann, Denis Antoine, Michael Adams, JP OConnor

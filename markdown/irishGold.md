@@ -9,4 +9,4 @@ tasks: 338
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157650952566428
 micropastsURL: https://crowdsourced.micropasts.org/project/irishGold
 ---
-Daniel Pett, Lucy Ellis, Elaine Dale, Joellen mcGann, Denis Antoine, Susan Magyarody, Michael Adams, Van C. Vives, Marla Walcott, Marilyn Kohn, JP OConnor, Deborah Jackson, Gordana Dimovska
+Daniel Pett, Lucy Ellis, Elaine Dale, Joellen McGann, Denis Antoine, Susan Magyarody, Michael Adams, Van C. Vives, Marla Walcott, Marilyn Kohn, JP OConnor, Deborah Jackson, Gordana Dimovska

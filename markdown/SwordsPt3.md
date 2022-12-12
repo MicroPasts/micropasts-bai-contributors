@@ -9,4 +9,4 @@ flickrURL: https://www.flickr.com/photos/micropasts/albums/72157659909907534
 tasks: 98
 micropastsURL: https://crowdsourced.micropasts.org/project/SwordsPt3
 ---
-Daniel Pett, Ted Brandt, Laura Powell Kiser, Elaine Dale, Joellen mcGann, Denis Antoine, Susan Magyarody, Michael Adams, JP OConnor, Gege Ashby
+Daniel Pett, Ted Brandt, Laura Powell Kiser, Elaine Dale, Joellen McGann, Denis Antoine, Susan Magyarody, Michael Adams, JP OConnor, Gege Ashby

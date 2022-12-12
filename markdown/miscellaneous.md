@@ -9,4 +9,4 @@ thumbnail: https://live.staticflickr.com/3946/15601272042_2bd768afd5_b.jpg
 micropastsURL:  https://crowdsourced.micropasts.org/project/miscellaneous
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157648506265018
 ---
-Jeff Okazaki, Joellen mcGann, Jane Fellows, Denis Antoine, Hugh Fiske, Maria Christakou, Susan Magyarody, Holly Peterson, Marilyn Kohn, Joe vittek
+Jeff Okazaki, Joellen McGann, Jane Fellows, Denis Antoine, Hugh Fiske, Maria Christakou, Susan Magyarody, Holly Peterson, Marilyn Kohn, Joe vittek

@@ -9,4 +9,4 @@ thumbnail: https://live.staticflickr.com/5586/14884612989_6c821e2da8_c.jpg
 micropastsURL: https://crowdsourced.micropasts.org/project/flangedchiselsA1
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157646980797072
 ---
-Joellen mcGann, Margaret Ellen Joy, Jane Fellows, Andrew Bevan, Hugh Fiske
+Joellen McGann, Margaret Ellen Joy, Jane Fellows, Andrew Bevan, Hugh Fiske

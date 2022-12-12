@@ -10,4 +10,4 @@ micropastsURL:  https://crowdsourced.micropasts.org/project/arretonHoard
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157644510617040
 ---
 
-Daniel Pett, Lucy Ellis, Cheryl Ellsworth, Jeff Okazaki, Joellen mcGann, Holden, Kaitlin Wells
+Daniel Pett, Lucy Ellis, Cheryl Ellsworth, Jeff Okazaki, Joellen McGann, Holden, Kaitlin Wells

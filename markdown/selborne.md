@@ -11,4 +11,4 @@ thumbnail: https://live.staticflickr.com/3906/14951984649_04acc09805_c.jpg
 created: 2014-10-31T10:39:25.431208
 ---
 
-Lucy Ellis, Ernst Schnell, Jeff Okazaki, Joellen mcGann, Dina Fathalla, Helen Bowen, Denis Antoine, Maria Christakou, Susan Magyarody, Holly Peterson, Marilyn Kohn, Allegra DC, Rosalind Wilkes, Margaret Lesley Gosling
+Lucy Ellis, Ernst Schnell, Jeff Okazaki, Joellen McGann, Dina Fathalla, Helen Bowen, Denis Antoine, Maria Christakou, Susan Magyarody, Holly Peterson, Marilyn Kohn, Allegra DC, Rosalind Wilkes, Margaret Lesley Gosling

@@ -9,4 +9,4 @@ thumbnail: https://www.flickr.com/photos/micropasts/17494812599/sizes/c/
 micropastsURL: https://crowdsourced.micropasts.org/project/IrishSwordss
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157652444921520
 ---
-Daniel Pett, Joellen mcGann, Denis Antoine, Susan Magyarody, Michael Adams, Marla Walcott, JP OConnor
+Daniel Pett, Joellen McGann, Denis Antoine, Susan Magyarody, Michael Adams, Marla Walcott, JP OConnor

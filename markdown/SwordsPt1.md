@@ -9,4 +9,4 @@ tasks: 153
 micropastsURL: https://crowdsourced.micropasts.org/project/SwordsPt1s
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157659190920586
 ---
-Daniel Pett, Ben Lewis, Barbara Palmer, Tracie Holton, chris charles, Elaine Dale, Jos Kleijne, Joellen mcGann, Jane Fellows, Denis Antoine, Michael Adams, Van C. Vives, JP OConnor
+Daniel Pett, Ben Lewis, Barbara Palmer, Tracie Holton, chris charles, Elaine Dale, Jos Kleijne, Joellen McGann, Jane Fellows, Denis Antoine, Michael Adams, Van C. Vives, JP OConnor

@@ -9,4 +9,4 @@ thumbnail: https://live.staticflickr.com/7671/17184686829_97a809a243_c.jpg
 micropastsURL:  https://crowdsourced.micropasts.org/project/IrishDirks
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157652370429545
 ---
-Joellen mcGann, Denis Antoine, Michael Adams, Marla Walcott, JP OConnor
+Joellen McGann, Denis Antoine, Michael Adams, Marla Walcott, JP OConnor

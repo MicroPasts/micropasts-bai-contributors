@@ -9,4 +9,4 @@ tasks: 303
 flickrURL: https://www.flickr.com/photos/micropasts/albums/72157649813328791
 micropastsURL: https://crowdsourced.micropasts.org/project/drawA10
 ---
-Shawn Bursey, Elaine Dale, Jeff Okazaki, Joellen mcGann, Jane Fellows, Denis Antoine, Susan Magyarody, Michael George Adams, Van C. Vives, Marla Walcott,  John Sorrell, JP OConnor, Tamara Brunnock, Rosie Carpenter, Nyree Powell and other anonymous contributors
+Shawn Bursey, Elaine Dale, Jeff Okazaki, Joellen McGann, Jane Fellows, Denis Antoine, Susan Magyarody, Michael George Adams, Van C. Vives, Marla Walcott,  John Sorrell, JP OConnor, Tamara Brunnock, Rosie Carpenter, Nyree Powell and other anonymous contributors
