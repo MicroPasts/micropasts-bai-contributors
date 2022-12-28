@@ -1,5 +1,7 @@
 # MicroPasts Bronze Age Index - transcription contributors
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7488721.svg)](https://doi.org/10.5281/zenodo.7488721)
+
 This repository holds all the contributor names, project by project for
 the MicroPasts projects that enabled the transcription of the Bronze Age Index.
 
